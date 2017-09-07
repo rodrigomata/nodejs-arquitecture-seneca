@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-arquitecture-seneca",
+  "version": "1.0.0",
+  "description": "NodeJs Arquitecture with Seneca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomata/nodejs-arquitecture-seneca.git"
+  },
+  "keywords": [
+    "nodejs",
+    "microservice",
+    "seneca"
+  ],
+  "author": "rodrigo.mata.ib@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigomata/nodejs-arquitecture-seneca/issues"
+  },
+  "homepage": "https://github.com/rodrigomata/nodejs-arquitecture-seneca#readme",
+  "dependencies": {
+    "seneca": "^3.4.2"
+  }
+}
