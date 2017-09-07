@@ -2,6 +2,11 @@
 
 [SenecaJs](http://senecajs.org) is a very powerful Microservice framework for NodeJs. This project gets the bootstrapping architecture for it.
 
+## Distribution
+
+- lib: Contains Seneca's plugin logic
+- services: Microservices abstraction
+
 ## Requirements
 
 - NodeJS 8.x
@@ -10,6 +15,7 @@
 
 - ES6
 - Seneca 3.4.x
+- Mocha 3.5.x
 
 ### Commit Style
 
