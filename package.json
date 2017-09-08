@@ -4,7 +4,9 @@
   "description": "NodeJs Arquitecture with Seneca",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -22,9 +24,11 @@
   },
   "homepage": "https://github.com/rodrigomata/nodejs-arquitecture-seneca#readme",
   "dependencies": {
-    "seneca": "^3.4.2"
+    "seneca": "^3.4.2",
+    "snyk": "^1.40.2"
   },
   "devDependencies": {
     "mocha": "^3.5.0"
-  }
+  },
+  "snyk": true
 }
