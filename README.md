@@ -1,4 +1,5 @@
 ![Build Status](https://travis-ci.org/rodrigomata/nodejs-arquitecture-seneca.svg?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/rodrigomata/nodejs-arquitecture-seneca/badge.svg)](https://snyk.io/test/github/rodrigomata/nodejs-arquitecture-seneca)
 # NodeJS Seneca Architecture
 
 [SenecaJs](http://senecajs.org) is a very powerful Microservice framework for NodeJs. This project gets the bootstrapping architecture for it.
