@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rodrigomata/nodejs-arquitecture-seneca#readme",
   "dependencies": {
-    "seneca": "^3.4.2",
+    "seneca": "^3.9.0",
     "snyk": "^1.40.2"
   },
   "devDependencies": {
